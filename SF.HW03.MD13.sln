@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF.HW03.MD13.Task1.TestList", "SF.HW03.MD13.Task1.TestList\SF.HW03.MD13.Task1.TestList.csproj", "{B2C8DFAB-1819-4F26-8D5B-47103165984D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF.HW03.MD13.Task1.TestLinkedList", "SF.HW03.MD13.Task1.TestLinkedList\SF.HW03.MD13.Task1.TestLinkedList.csproj", "{C8775C3A-B339-4588-94CE-9AE022AA5DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C8DFAB-1819-4F26-8D5B-47103165984D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C8DFAB-1819-4F26-8D5B-47103165984D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C8DFAB-1819-4F26-8D5B-47103165984D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C8DFAB-1819-4F26-8D5B-47103165984D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8775C3A-B339-4588-94CE-9AE022AA5DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8775C3A-B339-4588-94CE-9AE022AA5DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8775C3A-B339-4588-94CE-9AE022AA5DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8775C3A-B339-4588-94CE-9AE022AA5DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6046A1EE-9C7C-4150-9686-8EAAFC2E45FB}
+	EndGlobalSection
+EndGlobal
