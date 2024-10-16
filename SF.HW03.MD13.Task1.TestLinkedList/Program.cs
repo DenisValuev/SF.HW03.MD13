@@ -12,7 +12,7 @@ namespace SF.HW03.MD13.Task1.TestLinkedList
             //Сохраним символы разделители в массив
             char[] delimiters = new char[] { ' ', '\r', '\n' };
 
-            //Разюиваем строку текса, изпользуя символы-разделители
+            //Разбиваем строку текста, изпользуя символы-разделители
             var words = text.Split(delimiters, StringSplitOptions.RemoveEmptyEntries);
 
             #region New linkedList
